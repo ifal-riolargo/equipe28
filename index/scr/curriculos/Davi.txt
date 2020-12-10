@@ -4,9 +4,9 @@
     "dataNascimento": "28/04/2019",
     "email": "dadaviviemanuel@gmail.com",
     "curriculo": [
-        "Ensino Medio Completo",
-        "Cursando o 2º módulo de informatica para internet - Instituto Federal de Alagoas (IFAL)",
-        "Curso de Design Grafico - Cedaspy", 
+        "Ensino Medio Completo.",
+        "Cursando o 2º módulo de informatica para internet - Instituto Federal de Alagoas (IFAL).",
+        "Curso de Design Grafico - Cedaspy.", 
         "", 
         "", 
         ""
