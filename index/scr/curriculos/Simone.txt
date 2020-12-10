@@ -8,6 +8,6 @@
         "Operador de caixa: Orientação cursos - 2018.",
         "Operador de caixa: Orientação cursos - 2018.",
         "Superior (cursando) IFAL Satuba.",
-        ""
+        "Cursando o 2º módulo de informatica para internet - Instituto Federal de Alagoas (IFAL)."
     ]
 }
