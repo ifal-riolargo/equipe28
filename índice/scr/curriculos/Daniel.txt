@@ -1,0 +1,13 @@
+{
+    "nome": "Daniel Ferreira da Silva",
+    "img": null,
+    "dataNascimento": "26/03/2001",
+    "email": "danieldetonator000@gmail.com",
+    "currículo": [
+        "Ensino Médio Completo.",
+        "Cursando o 2º módulo de informática para internet - Instituto Federal de Alagoas (IFAL).",
+        "",
+        "",
+        ""
+    ]
+}
